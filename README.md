@@ -1,12 +1,11 @@
-# YouTube Mobile 2015/YTm15
-A frontend/web-client for YouTube mobile based off the 2015 YT app for Android
+# YouTube Mobile 2017/YTm17
+A frontend/web-client for YouTube mobile based off the 2017+ YT app for Android
 
 ## Want a desktop version instead?
-Please check out <a href="https://vorapis.pages.dev/#/">Vorapis 2013/V3</a>, another project made by another person in the Old YouTube community, which also aims to restore YouTube's old UI, you can configure/stylize it to make it look like the 2015 YouTube UI. <a href="https://chromewebstore.google.com/detail/customtube-restore-the-ol/iedffooliepgabiihipcbokboecnfcbe">CustomTube</a> also exists, however it's discontined/no-longer maintained
+Please check out <a href="[https://github.com/lightbeam24/StarTube]/#/">Startube</a>,
 
 ## To-do list
 - Make the newer UIs more accurate and complete
-- (possibly / tentative) Change this whole project's name (it doesn't just have the 2015 YT UI anymore so it's about time for a name-change)
 - Add expflags for the player
 
 ### More stuff will be added here later
